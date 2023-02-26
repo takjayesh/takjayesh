@@ -1,5 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Jayesh Tak</h1>
+<h1 align="center">Hi 👋, I'm Jayesh Tak
+  <h2> I'm an enthusiastic full stack developer with a passion for creating innovative and elegant solutions to complex problems. With a background in software engineering and web development, I specialize in developing and maintaining full stack applications, ranging from small websites to large, multi-tiered applications. I'm driven to stay up-to-date with the latest technologies, and I'm always eager to learn and explore new approaches to development.</h2>
+</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
